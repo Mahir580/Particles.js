@@ -1,5 +1,5 @@
 ## Link to use particles
-### particles.js link:
+### *particles.js link:*
 ```
 <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
 ```

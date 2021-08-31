@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+}
+
+#particles-js {
+    background-color: rgb(25, 28, 48);
+    height: 500px;
+}
+
+.form {
+    background-color: white;
+    padding: 70px 40px;
+    top: 100px;
+    left: 200px;
+    position: absolute;
+    border-radius: 10px;
+    border: 1px lightgrey solid;
+}
+
+input[type="text"],
+input[type="email"] {
+    padding: 5px;
+    width: 200px;
+    border: 1px grey solid;
+    border-radius: 5px;
+}
+
+h3 {
+    color: #333;
+    margin-left: 30px;
+    font-size: 25px;
+}
+
+#button {
+    top: 250px;
+    left: 40px;
+    position: absolute;
+    background-color: lightslategrey;
+    border: none;
+    border-radius: 5px;
+    padding: 6px 12px;
+    font-size: 17px;
+    color: white;
+}
